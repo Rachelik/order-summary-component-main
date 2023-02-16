@@ -233,7 +233,7 @@ main {
     display: flex;
     flex-direction: column;
     text-align: left;
-    align-items: center;
+    align-items: left;
     justify-content: space-between;
 }
 
